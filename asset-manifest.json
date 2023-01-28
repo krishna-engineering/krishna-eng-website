@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/krishna-engineering/krishna-eng-website/static/css/main.073c9b0a.css",
+    "main.js": "/krishna-engineering/krishna-eng-website/static/js/main.724d1079.js",
+    "static/js/787.c89bf15f.chunk.js": "/krishna-engineering/krishna-eng-website/static/js/787.c89bf15f.chunk.js",
+    "static/media/logo.svg": "/krishna-engineering/krishna-eng-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/krishna-engineering/krishna-eng-website/index.html",
+    "main.073c9b0a.css.map": "/krishna-engineering/krishna-eng-website/static/css/main.073c9b0a.css.map",
+    "main.724d1079.js.map": "/krishna-engineering/krishna-eng-website/static/js/main.724d1079.js.map",
+    "787.c89bf15f.chunk.js.map": "/krishna-engineering/krishna-eng-website/static/js/787.c89bf15f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.724d1079.js"
+  ]
+}
