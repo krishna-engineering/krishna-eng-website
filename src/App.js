@@ -4,12 +4,22 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <h1>
+      <div class="header">
+  <a href="#default" class="logo">Krishna Engineering</a>
+  <div class="header-right">
+    <a class="active" href="#home">Home</a>
+    <a href="#contact">Contact</a>
+    <a href="#about">About</a>
+  </div>
+</div>
+        <h1 >
           Krishna Engineering 
         </h1>
-        <h6>
-          EOT cranes Manufacturer EOT Cranes, Electric Hoist, Heavy Lifting Machines, Goods Lifting Machines Manufacturer. Own Manufacturing Facility, Please Visit us for Detailed Quotes for your Industrial Requirements
-        </h6>
+        <p className='margin-text'>
+        <h3>
+          EOT cranes Manufacturer EOT Cranes, Electric Hoist, Heavy Lifting Machines, Goods Lifting Machines Manufacturer. Own Manufacturing Facility, Please Visit us for Detailed Quotes for your Industrial Requirements Contact Number -: 9654195463
+        </h3>
+        </p>
 
         
         <a
