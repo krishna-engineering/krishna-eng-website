@@ -20,7 +20,7 @@ function App() {
         </h3> */}
 
 
-        <h1> contant here</h1>
+        <h1> Please contact  here</h1>
     </div>
   );
 }
