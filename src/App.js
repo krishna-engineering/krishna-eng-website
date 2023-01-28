@@ -17,15 +17,29 @@ function App() {
         </h1>
         <p className='margin-text'>
         <h3>
-          EOT cranes Manufacturer EOT Cranes, Electric Hoist, Heavy Lifting Machines, Goods Lifting Machines Manufacturer. Own Manufacturing Facility, Please Visit us for Detailed Quotes for your Industrial Requirements Contact Number -: 9654195463
+          EOT cranes Manufacturer EOT Cranes, Electric Hoist, Heavy Lifting Machines, Goods Lifting Machines Manufacturer. Own Manufacturing Facility, Please Visit us for Detailed Quotes for your Industrial Requirements Contact Number -: 9654195463 
+          GST 06CDAPR0899H1Z9
         </h3>
         </p>
+   
+  
+  
+  <img src="https://5.imimg.com/data5/SELLER/Default/2022/11/TC/OU/SO/163623528/15-ton-double-girder-eot-crane-250x250.jpg" width="300" height="300"  data-dataimg="https://5.imimg.com/data5/SELLER/Default/2022/11/TC/OU/SO/163623528/15-ton-double-girder-eot-crane-250x250.jpg"  />
 
-        
-        <a
+
+
+  <img src="https://5.imimg.com/data5/SELLER/Default/2022/11/NY/LY/JM/163623528/electric-wire-rope-hoist-250x250.jpg" width="300" height="300"  data-dataimg="https://5.imimg.com/data5/SELLER/Default/2022/11/NY/LY/JM/163623528/electric-wire-rope-hoist-250x250.jpg" id="chngImg_2" />
+  
+  
+  <img src="https://5.imimg.com/data5/SELLER/Default/2022/11/ZE/AC/XJ/163623528/img-20211211-wa0005-250x250.jpg" width="300" height="300"  data-dataimg="https://5.imimg.com/data5/SELLER/Default/2022/11/ZE/AC/XJ/163623528/img-20211211-wa0005-250x250.jpg"  id="chngImg_3" />
+  
+  <img src="https://5.imimg.com/data5/SELLER/Default/2022/11/SO/VX/YX/163623528/img-20210930-wa0002-250x250.jpg" width="300" height="300"  data-dataimg="https://5.imimg.com/data5/SELLER/Default/2022/11/SO/VX/YX/163623528/img-20210930-wa0002-250x250.jpg" class="FM_pr FM_mAuto" id="chngImg_4" />
+  
+  
+  <br></br>    
+          <a
           href="https://goo.gl/maps/o9ZQiHMygv7YHgz26"
         >
-          
          Location 
         </a>
         <h3>
